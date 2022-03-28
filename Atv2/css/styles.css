@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    height: 20vw;
+    width: 75vw;
+    border: 15px solid;
+    margin: 10px;
+}
+
+.menor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    font-weight: bold;
+    font-size: 23px;
+    color: blue;
+    height: 150px;
+    width: 55vw;
+    border: 15px solid blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.verm {
+    background-color: red;
+    height: 30px;
+    width: 40%;
+}
+
+.azul {
+    background-color: blue;
+    height: 30px;
+    width: 20%;
+}
+
+.verd {
+    background-color: green;
+    height: 30px;
+    width: 40%;
+}
+
+#container_color{
+    display: flex;
+    margin-top: 130px;
+}
+
+.um{
+    background-color: blue;
+    height: 25px;
+    width: 70%;
+}
+.dois{
+    background-color: purple;
+    height: 25px;
+    width: 40%;
+}
+.tres{
+    background-color: green;
+    height: 25px;
+    width: 60%;
+}
+.quatro{
+    background-color: yellow;
+    height: 25px;
+    width: 50%;
+
+}
+
+#b{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 85px;
+} 
