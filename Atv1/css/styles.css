@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#a {
+    
+    height: 350px;
+    width: 500px;
+    background-color:black;
+}
+
+#b {
+    
+    height: 250px;
+    width: 300px;
+    background-color:red;
+}
+
+p{
+    
+    font-weight: bold;
+    font-size: 40px;
+    color:gray;
+    background-color:white;
+}
+
+#d{
+    width: 37%;
+    background-color: yellow;
+    height: 12vh;
+}   
+
+#e{
+    width: 25vw;
+    height: 30%;
+    background-color: orange;
+}
